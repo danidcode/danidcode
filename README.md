@@ -1,9 +1,6 @@
+### Here is what I’m Working on!😄
 
 
-<!--
-**danidcode/danidcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 - 👋 Hi guys! I’m @danidcode :)
 - 😄 Since I was 14 years old I´ve been interested in technology, mostly in software development.
 - 🔭 I love code and above all i love to resolve new challenges.
